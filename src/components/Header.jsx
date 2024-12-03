@@ -11,7 +11,8 @@ function Header() {
             <div className="container-fluid nav_container">
                 <div className="toggle_main">
                     <button className="icon_btn pr-0" id="toggleBtn"><i className='bx bx-menu-alt-left '></i></button>
-                    <img src={Logo} alt="" width="140px" className="logo" />
+                    {/* <img src={Logo} alt="" width="140px" className="logo" /> */}
+                    <div style={{width:"140px"}}></div>
                     
                 </div>
                 <div className="d-flex align-items-center justify-content-between w-100">
