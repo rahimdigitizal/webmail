@@ -1,0 +1,71 @@
+body.dark,
+body.dark header,
+body.dark #sidebar,
+body.dark .modal-content,
+body.dark #main_content {
+  background-color: #121212;
+  /* background-color: #121212 ; */
+}
+body.dark #composeEmail,
+body.dark #profileDropdown {
+  background-color: #282828;
+  box-shadow: 0 10px 15px -3px #9191911a, 0 4px 6px -4px #9191911a;
+  color: #d4d7dc;
+}
+body.dark #content,
+body.dark .mail_item,
+body.dark .alert-light,
+body.dark .main_tabs button.active,
+body.dark .nav-tabs .nav-link.active,
+body.dark #format_dropdown {
+  background-color: #282828;
+  color: #d4d7dc;
+}
+body.dark .icon_btn,
+body.dark .icon_btn_sm:not(.bg_light_green, .mob_float_btn ,.link_mob),
+body.dark .search_main input,
+body.dark .search_main input::placeholder,
+body.dark input::placeholder,
+body.dark .dissmiss_btn,
+body.dark input:not(.password_input),
+body.dark .text-muted,
+body.dark .text-dark:not(.password_input),
+body.dark .search_main i,
+body.dark .sidebar_ul li a:not(.active),
+body.dark .modal-content,
+body.dark .primary_outline_btn_sm {
+  color: #d4d7dc !important;
+}
+body.dark .search_main,
+body.dark .form-control:not(.password_input),
+body.dark input:not(.compose_inp , .password_input),
+body.dark select {
+  background-color: #3f3f3f;
+  color: #d4d7dc !important;
+}
+body.dark .tox-editor-header,
+body.dark .tox-toolbar__primary,
+body.dark .tox .tox-tbtn,
+body.dark .tox .tox-edit-area__iframe,
+body.dark .tox.tox-tinymce-aux .tox-toolbar__overflow {
+  background-color: #282828 !important;
+  color: #d4d7dc !important;
+}
+body.dark .tox .tox-tbtn svg {
+  fill: #d4d7dc !important;
+}
+body.dark .format_list li:hover,
+body.dark .sidebar_ul li:hover a {
+  color: #282828 !important;
+}
+body.dark .primary_outline_btn_sm:hover{
+  background-color: #333333 !important;
+}
+body.dark .modal{
+  background-color: #3c3c3c80 !important;
+}
+@media (max-width: 768px) {
+  body.dark .content_header {
+    background-color: #121212;
+  }
+}

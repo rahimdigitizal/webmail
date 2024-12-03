@@ -1,0 +1,9 @@
+@media(max-width:768px) {
+    #toggleBtn {
+        left: -9px !important;
+    }
+
+    .mode_toggle {
+        right: 5px !important;
+    }
+}
