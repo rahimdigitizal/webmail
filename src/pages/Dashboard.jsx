@@ -121,7 +121,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">3 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Subscription renewal</strong> - Your subscription has been successfully renewed. Enjoy uninterrupted access to your fav...</p>
+                                <p className="m-0 fs_14"><strong>Subscription renewal</strong> - Your subscription has been successfully renewed. Enjoy uninterrupted access to y...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">3 Nov</p>
                             </div>
                         </Link>
@@ -240,7 +240,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">3 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Subscription renewal</strong> - Your subscription has been successfully renewed. Enjoy uninterrupted access to your fav...</p>
+                                <p className="m-0 fs_14"><strong>Subscription renewal</strong> - Your subscription has been successfully renewed. Enjoy uninterrupted access to y...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">3 Nov</p>
                             </div>
                         </Link>
