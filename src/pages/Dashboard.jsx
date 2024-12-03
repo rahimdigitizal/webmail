@@ -106,7 +106,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">4 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Account Security Update</strong> - We’ve recently updated our security measures to keep your account protected. Please...</p>
+                                <p className="m-0 fs_14"><strong>Account Security Update</strong> - We’ve recently updated security measures to keep your account protected...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">4 Nov</p>
                             </div>
                         </Link>
@@ -225,7 +225,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">4 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Account Security Update</strong> - We’ve recently updated our security measures to keep your account protected. Please...</p>
+                                <p className="m-0 fs_14"><strong>Account Security Update</strong> - We’ve recently updated security measures to keep your account protected...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">4 Nov</p>
                             </div>
                         </Link>
