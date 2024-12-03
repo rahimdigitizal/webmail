@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import UserAvatar from "../assets/images/profile.png";
-import Logo from "../assets/images/logo.png";
+import UserAvatar from "../assets/images/profile.webp";
+import Logo from "../assets/images/logo.webp";
 
 function Header() {
   return (
