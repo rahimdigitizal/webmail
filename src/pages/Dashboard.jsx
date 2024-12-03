@@ -91,7 +91,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">5 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Payment Received</strong> - Congratulations! Youve received a payment in your PayPal account. Please review the tran...</p>
+                                <p className="m-0 fs_14"><strong>Payment Received</strong> - Congratulations! Youve received a payment in your PayPal account. Please review the...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">5 Nov</p>
                             </div>
                         </Link>
@@ -210,7 +210,7 @@ function Dashboard() {
                                 <p className="fw-bold m-0 fs_14 show_mob">5 Nov</p>
                             </div>
                             <div className="col-md-9 col-12 d-flex align-items-center justify-content-between px-3">
-                                <p className="m-0 fs_14"><strong>Payment Received</strong> - Congratulations! Youve received a payment in your PayPal account. Please review the tran...</p>
+                                <p className="m-0 fs_14"><strong>Payment Received</strong> - Congratulations! Youve received a payment in your PayPal account. Please review the...</p>
                                 <p className="fw-bold m-0 fs_14 hide_mob">5 Nov</p>
                             </div>
                         </Link>
